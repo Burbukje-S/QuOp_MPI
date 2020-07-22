@@ -1,1 +1,0 @@
-# QuOp_MPI
